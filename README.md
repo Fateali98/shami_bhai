@@ -1,2 +1,2 @@
-# shami_bhai
+# sami_bhai
 my new demo project
